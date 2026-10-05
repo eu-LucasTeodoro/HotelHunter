@@ -118,8 +118,5 @@ Todos os arquivos pertencem ao pacote `HotelHunter`.
 
 ## Autor
 
-Feito por **<seu nome>**: <https://github.com/eu-LucasTeodoro>
+Feito por **<seu Lucas Teodoro>**: <https://github.com/eu-LucasTeodoro>
 
-## Licença
-
-Defina a licença do projeto (ex.: MIT).
